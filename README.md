@@ -1,4 +1,5 @@
 # hello-world
 my first repository for study
-now 16:05 
+
+now 16:05 \n
 edit the file and save it
